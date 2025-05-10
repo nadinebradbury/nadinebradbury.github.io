@@ -1,0 +1,4 @@
+Aaron Anderson
+{{- with .GetTerms "coauthors" -}}
+, {{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ partial "coauthor" $e }}{{ end }}
+{{- end }}
