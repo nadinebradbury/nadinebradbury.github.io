@@ -1,0 +1,5 @@
+{{- if .Params.homepage -}}
+<a href = "{{ .Params.homepage }}">{{ .Params.first }} {{ .Params.last }}</a>
+{{- else -}}
+{{- .Title -}}
+{{- end }}

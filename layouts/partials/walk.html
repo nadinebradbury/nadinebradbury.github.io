@@ -1,0 +1,11 @@
+<ul>
+    {{ range .Pages.ByTitle }}
+      <li>
+        <strong><a href="{{ .RelPermalink }}">{{ .Title }}</a></strong>
+      </li>
+      {{ if .Pages }}
+        {{ partial "walk.html" . }}
+      {{ end }}
+    {{ end }}
+  </ul>
+  

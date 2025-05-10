@@ -1,0 +1,3 @@
+{{ with .Params.doi }}
+    {{- partial "button" (dict "name" "DOI" "url" (print "https://doi.org/" . )) }}
+{{ end }}

@@ -1,0 +1,3 @@
+{{ with .Params.arxiv }}
+    {{- partial "button" (dict "name" "arXiv" "url" (print "https://arxiv.org/abs/" . )) }}
+{{ end }}

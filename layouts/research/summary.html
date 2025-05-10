@@ -1,0 +1,39 @@
+<strong><a href="{{ .Permalink }}">{{- .Title}}</a></strong>
+{{- with .GetTerms "coauthors" }}
+    with {{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ partial "coauthor" $e }}{{ end }}
+{{- end }}
+<br>
+{{- if .Params.journal }}
+{{ .Params.journal }} ({{ .Page.Date.Year }})
+<br>
+{{- end }}
+<ul class="post-tags">
+    {{ if .Params.pdf }}
+    <li><a href ={{ print .Permalink .Params.pdf }}>pdf</a></li>
+    {{ end }}
+    {{ with .Page.Params.arxiv }}
+    <li><a href ={{ print "https://arxiv.org/abs/" . }}>arXiv</a></li>
+    {{ end }}
+    {{ with .Params.doi }}
+    <li><a href ={{ print "doi.org" . }}>DOI</a></li>
+    {{ end }}
+    {{ with .Params.link }}
+    <li><a href ={{ . }}>link</a></li>
+    {{ end }}
+    {{ with .Resources.GetMatch "*.bib" }}
+    <li><a href ={{ .Permalink }}>BibTeX</a></li>
+    {{ end }}
+</ul>
+{{/*
+{{ with .Params.pdf }}
+    {{- partial "button" (dict "name" "pdf" "url" (print $.Permalink . )) }}
+{{ end }}
+{{ with .Params.arxiv }}
+    {{- partial "button" (dict "name" "arXiv" "url" (print "https://arxiv.org/abs/" . )) }}
+{{ end }}
+{{ with .Params.doi }}
+    {{- partial "button" (dict "name" "DOI" "url" (print "https://doi.org/" . )) }}
+{{ end }}
+{{ with .Resources.GetMatch "*.bib" }}
+    {{- partial "button" (dict "name" "BibTeX" "url" (print $.Permalink . )) }}
+{{ end }} */}}
