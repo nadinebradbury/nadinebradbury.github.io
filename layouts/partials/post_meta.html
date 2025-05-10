@@ -13,9 +13,13 @@
 {{- end }}
 
 {{- if not (.Param "hideAuthor") -}}
-{{- with (partial "author.html" .) }}
+{{- with (partial "authors.html" .) }}
 {{- $scratch.Add "meta" (slice .) }}
 {{- end }}
+{{- end }}
+
+{{- with (.Param "journal") -}}
+{{- $scratch.Add "meta" . }}
 {{- end }}
 
 {{- with ($scratch.Get "meta") }}
