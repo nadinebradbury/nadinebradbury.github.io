@@ -12,7 +12,7 @@ hidemeta: True
 ---
 ### Papers
 1. **NCB**, T Duston, Z Tao, JI Rawlinson, R Littlejohn, JE Subotnik, **Symmetry Breaking as Predicted by a Phase Space Hamiltonian with a Spin Coriolis Potential**, Submitted (2025).
-    - [arxiv](https://arxiv.org/abs/2504.03100)
+    - [arXiv](https://arxiv.org/abs/2504.03100)
     {class="post-tags"}
 
 1. BY Li, T Duong, T Allen, **NCB**, JR Caram, D Neuhauser, **Parameterized Attenuated Exchange for Generalized TDHF@$v_W$ Applications**, Submitted (2025).
