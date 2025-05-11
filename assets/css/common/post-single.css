@@ -50,11 +50,11 @@
 }
 
 .post-content h3 {
-    font-size: 19px;    
+    font-size: 19px;
 }
 
 .post-content h4 {
-    font-size: 15px;    
+    font-size: 15px;
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
@@ -75,7 +75,7 @@
 .post-content a,
 .post-meta a,
 .toc a:hover {
-    color: var(--linkcolor); 
+    color: var(--linkcolor);
 }
 
 .post-content a code {
@@ -99,7 +99,7 @@
 .post-content ol,
 .post-content ul {
     padding-inline-start: 20px;
-    margin-left: var(--marginleft); 
+    margin-left: var(--marginleft);
 }
 
 .post-content li {
@@ -287,11 +287,11 @@
 }
 
 .list-content h3 {
-    font-size: 19px;    
+    font-size: 19px;
 }
 
 .list-content h4 {
-    font-size: 15px;    
+    font-size: 15px;
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
@@ -312,7 +312,7 @@
 .list-content a,
 .post-meta a,
 .toc a:hover {
-    color: var(--linkcolor); 
+    color: var(--linkcolor);
 }
 
 .list-content a code {
@@ -335,7 +335,7 @@
 
 .list-content ol,
 .list-content ul {
-    margin-left: var(--marginleft); 
+    margin-left: var(--marginleft);
 }
 
 .list-content li {
@@ -578,7 +578,7 @@
     color: var(--secondary);
     font-size: 16px;
     line-height: 32px;
-    background: var(--code-bg);
+    background: var(--tertiary);
     box-shadow: none;
 }
 

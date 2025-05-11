@@ -1,5 +1,5 @@
-baseURL: "https://awainverse.github.io/hugo-pascal" 
-title: Aaron Anderson
+baseURL: "https://nadinebradbury.github.io/"
+title: Nadine Bradbury
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -18,16 +18,13 @@ menu:
         - name: Research
           url: research/
           weight: 2
-        - name: Teaching
-          url: teaching/
-          weight: 3
-        - name: Talks
-          url: talks/
-          weight: 4
+        # - name: Talks
+        #   url: talks/
+        #   weight: 4
 
 params:
-    description: "I am a Hans Rademacher Instructor at UPenn, researching model theory."
-    author: Aaron Anderson
+    description: "I am a postdoctoral researcher at Princeton Chemistry."
+    author: Nadine Bradbury
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -41,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["about_me","research","teaching","talks"]
+    MainSections: ["about_me","research","talks"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -51,9 +48,9 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Aaron Anderson
-          subtitle: I am a Hans Rademacher Instructor (postdoc) at UPenn, working with <a href ="https://www.sas.upenn.edu/~htowsner/">Henry Towsner</a>. I'm interested in model theory as it relates to combinatorics and other fields. I did my Ph.D. at UCLA, working with <a href="https://chernikov.umd.edu">Artem Chernikov</a>.
-          imageUrl: "portrait.jpeg"
+          title: Nadine Bradbury
+          subtitle: I am a theoretical chemistry postdoc at Princeton, working with <a href ="https://subotnikgroup.chemistry.princeton.edu">Joe Subotnik</a>. I am currently working on new electronic structure methods that explictly capture electron-nuclear and spin-nuclear correlation. I did my Ph.D. at UCLA, working with <a href="http://www.chem.ucla.edu/dept/Faculty/dxn/pages/home.html">Daniel Neuhauser</a> and <a href="https://justincaram.me">Justin Caram</a>.
+          imageUrl: "nadineportrait.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -61,24 +58,20 @@ params:
               url: about_me/
             - name: Research
               url: research/
-            - name: Teaching
-              url: teaching/
-            - name: Talks
-              url: talks/
+            # - name: Talks
+            #   url: talks/
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:awanders@sas.upenn.edu
-        - name: Office Hours
-          url: officehours/
+          url: mailto:nadinebradbury@princeton.edu
         - name: ORCID
-          url: https://orcid.org/0000-0003-1092-0188
+          url: https://orcid.org/0000-0002-1214-113X
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=IMoj89EAAAAJ
+          url: https://scholar.google.com/citations?user=WhlBtz0AAAAJ
         - name: GitHub
-          url: https://github.com/awainverse
+          url: https://github.com/nadinebradbury
 
     assets:
         disableScrollBarStyle: true
@@ -86,7 +79,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Aaron Anderson"
+      text: "Nadine Bradbury"
       icon: favicon.ico
       iconHeight: 18
 
@@ -94,9 +87,12 @@ markup:
     goldmark:
         renderer:
             unsafe: true
+        parser:
+            attribute:
+                block: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false

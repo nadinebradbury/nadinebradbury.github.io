@@ -3,59 +3,49 @@ title: "About Me"
 date: 2025-05-09
 description: "CV and Biographical Information"
 hidemeta: true
-
+---
 ---
 
-##### Downloads
+## Downloads
 
-- [pdf CV]({{% baseurl %}}cv.pdf)
+- [pdf CV]({{% baseurl %}}Cv_May_2025.pdf)
 
 ---
 
 ## Employment
 
-- **(2024-) University of Pennsylvania**
-    
-    Hans Rademacher Instructor (postdoc)
-    
-    Research Mentor: [Henry Towsner](https://www.sas.upenn.edu/~htowsner/)
+- **(2024-) Princeton University**
+
+    Postdoctoral Research Associate (postdoc)
+
+    Research Mentor: [Joeseph Subotnik](https://subotnikgroup.chemistry.princeton.edu)
 
 ---
 
 ## Education
 
-- **(2018-2024) University of California, Los Angeles**
-    
-    Ph.D. and M.A. Mathematics ([Ph.D. thesis]({{% baseurl %}}papers/thesis/thesis.pdf))
-    
-    Advisor: [Artem Chernikov](https://chernikov.umd.edu)
+- **(2019-2024) University of California, Los Angeles**
 
-- **(1-5/2023) Université Claude Bernard Lyon 1**
+    Ph.D. and M.S. Chemistry ([thesis](https://www.proquest.com/openview/4ee2dd11c929a7adf4a99e7519c89b62/1?cbl=18750&diss=y&pq-origsite=gscholar))
 
-    [Chateaubriand Fellow](https://chateaubriand-fellowship.org/)
+    Advisor: [Daniel Neuhauser](http://www.chem.ucla.edu/dept/Faculty/dxn/pages/home.html)
 
-    Mentor: [Itaï Ben Yaacov](https://math.univ-lyon1.fr/~begnac/)
+- **(2015-2019) California Institute of Technology**
 
-- **(2014-2018) California Institute of Technology**
-
-    B.S. Mathematics
+    B.S. Chemistry
 
 ---
 
 ## Awards and Fellowships
 
-- **(6/2024) Pacific Journal of Mathematics Dissertation Prize**
-- **(2023–2024) Dissertation Year Fellowship**
-- **(1-5/2023) [Chateaubriand Fellowship](https://chateaubriand-fellowship.org/)**
-- **(Summer 2017) Rose Hills Foundation SURF Fellow**
-- **(2014–2016) Putnam Exam**
-    Highest Score: 39, Rank 172. On Caltech Putnam Team in 2015.
+- **NSF Graduate Research Fellowship (2021-24)**
+- **George Gregory Excellence in Research Award** - UCLA Department of Chemistry and Biochemsitry
 
 ---
 
-## Teaching and Outreach
+<!-- ## Teaching and Outreach
 - **(2024–) Hans Rademacher Instructor, UPenn**
-    
+
     Instructor of record for
     - Calculus (Math 1300, Math 1400)
     - Complex Analysis (Math 4100)
@@ -78,4 +68,4 @@ hidemeta: true
 
 - **(Fall 2017) TA for Ma/CS 6a: Discrete Math, Caltech**
 
-- **(2014–2017) Treasurer, Secretary, [Caltech Harvey Mudd Math Competition](https://www.caltechmathmeet.org/)**
+- **(2014–2017) Treasurer, Secretary, [Caltech Harvey Mudd Math Competition](https://www.caltechmathmeet.org/)** -->
