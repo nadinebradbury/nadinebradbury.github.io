@@ -63,7 +63,7 @@ params:
 ####
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Cv_May_2025.pdf
         - name: Email
           url: mailto:nadinebradbury@princeton.edu
         - name: ORCID
