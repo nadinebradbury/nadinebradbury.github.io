@@ -18,7 +18,7 @@ hidemeta: true
 
     Postdoctoral Research Associate (postdoc)
 
-    Research Mentor: [Joeseph Subotnik](https://subotnikgroup.chemistry.princeton.edu)
+    Research Mentor: [Joseph Subotnik](https://subotnikgroup.chemistry.princeton.edu)
 
 ---
 
