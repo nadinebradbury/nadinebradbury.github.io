@@ -11,7 +11,11 @@ hidemeta: True
 
 ---
 ### Papers
-1. **NCB**, T Duston, Z Tao, JI Rawlinson, R Littlejohn, JE Subotnik, **Symmetry Breaking as Predicted by a Phase Space Hamiltonian with a Spin Coriolis Potential**, Submitted (2025).
+1. T Duston, **NCB**, Z Tao, JE Subotnik, **Conical Intersections and Electronic Momentum As Viewed From Phase Space Electronic Structure Theory**, Submitted (2025).
+    - [arXiv](https://arxiv.org/abs/2506.11963)
+    {class="post-tags"}
+
+1. **NCB**, T Duston, Z Tao, JI Rawlinson, R Littlejohn, JE Subotnik, **Symmetry Breaking as Predicted by a Phase Space Hamiltonian with a Spin Coriolis Potential**, *J Chem Phys* (Accepted) (2025).
     - [arXiv](https://arxiv.org/abs/2504.03100)
     {class="post-tags"}
 
