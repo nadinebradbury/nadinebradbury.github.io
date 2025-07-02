@@ -11,15 +11,19 @@ hidemeta: True
 
 ---
 ### Papers
+1. X Bian, T Duston, **NCB**, Z Tao, M Bhati, T Qiu, X Wu, Y Wu, JE Subotnik, **The Phase-Space Way To Electronic Structure Theory and Subsequently Chemical Dynamics**, Submitted (2025).
+    - [arXiv](https://arxiv.org/abs/2506.15994)
+    {class="post-tags"}
 1. T Duston, **NCB**, Z Tao, JE Subotnik, **Conical Intersections and Electronic Momentum As Viewed From Phase Space Electronic Structure Theory**, Submitted (2025).
     - [arXiv](https://arxiv.org/abs/2506.11963)
     {class="post-tags"}
 
-1. **NCB**, T Duston, Z Tao, JI Rawlinson, R Littlejohn, JE Subotnik, **Symmetry Breaking as Predicted by a Phase Space Hamiltonian with a Spin Coriolis Potential**, *J Chem Phys* (Accepted) (2025).
+1. **NCB**, T Duston, Z Tao, JI Rawlinson, R Littlejohn, JE Subotnik, **Symmetry Breaking as Predicted by a Phase Space Hamiltonian with a Spin Coriolis Potential**, *J Chem Phys*  162, 244107 (2025).
     - [arXiv](https://arxiv.org/abs/2504.03100)
+    - [DOI](https://doi.org/10.1063/5.0274260)
     {class="post-tags"}
 
-1. BY Li, T Duong, T Allen, **NCB**, JR Caram, D Neuhauser, **Parameterized Attenuated Exchange for Generalized TDHF@$v_W$ Applications**, Submitted (2025).
+1. BY Li, T Duong, T Allen, **NCB**, JR Caram, D Neuhauser, **Parameterized Attenuated Exchange for Generalized TDHF@$v_W$ Applications**, *J Chem Phys*, Accepted (2025).
     - [arXiv](https://arxiv.org/abs/2504.01285v1)
     {class="post-tags"}
 
