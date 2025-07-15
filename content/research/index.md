@@ -23,8 +23,9 @@ hidemeta: True
     - [DOI](https://doi.org/10.1063/5.0274260)
     {class="post-tags"}
 
-1. BY Li, T Duong, T Allen, **NCB**, JR Caram, D Neuhauser, **Parameterized Attenuated Exchange for Generalized TDHF@$v_W$ Applications**, *J Chem Phys*, Accepted (2025).
+1. BY Li, T Duong, T Allen, **NCB**, JR Caram, D Neuhauser, **Parameterized Attenuated Exchange for Generalized TDHF@$v_W$ Applications**, *J Chem Phys*, 163, 034102 (2025).
     - [arXiv](https://arxiv.org/abs/2504.01285v1)
+    - [DOI](https://doi.org/10.1063/5.0273771)
     {class="post-tags"}
 
 1. Z Tao, T Qiu, X Bian, T Duston, **NCB**, JE Subotnik, **A basis-free phase space electronic Hamiltonian that recovers beyond Born–Oppenheimer electronic momentum and current density**, *J Chem Phys*, 162, 144111 (2025).
