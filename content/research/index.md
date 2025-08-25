@@ -14,7 +14,7 @@ hidemeta: True
 1. X Bian, T Duston, **NCB**, Z Tao, M Bhati, T Qiu, X Wu, Y Wu, JE Subotnik, **The Phase-Space Way To Electronic Structure Theory and Subsequently Chemical Dynamics**, Submitted (2025).
     - [arXiv](https://arxiv.org/abs/2506.15994)
     {class="post-tags"}
-1. T Duston, **NCB**, Z Tao, JE Subotnik, **Conical Intersections and Electronic Momentum As Viewed From Phase Space Electronic Structure Theory**, Submitted (2025).
+1. T Duston, **NCB**, Z Tao, JE Subotnik, **Conical Intersections and Electronic Momentum As Viewed From Phase Space Electronic Structure Theory**, *J. Phys. Chem. Lett.* 16,XXX, 8994-9003 (2025).
     - [arXiv](https://arxiv.org/abs/2506.11963)
     {class="post-tags"}
 
