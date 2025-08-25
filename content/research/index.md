@@ -18,6 +18,7 @@ hidemeta: True
     - [arXiv](https://arxiv.org/abs/2506.11963)
     {class="post-tags"}
     - [DOI](https://doi.org/10.1021/acs.jpclett.5c01844)
+    {class="post-tags"}
 
 1. **NCB**, T Duston, Z Tao, JI Rawlinson, R Littlejohn, JE Subotnik, **Symmetry Breaking as Predicted by a Phase Space Hamiltonian with a Spin Coriolis Potential**, *J Chem Phys*  162, 244107 (2025).
     - [arXiv](https://arxiv.org/abs/2504.03100)
