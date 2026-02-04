@@ -88,7 +88,9 @@ hidemeta: True
     - [DOI](https://doi.org/10.1021/jacs.5b03042)
     {class="post-tags"}
 
-1. S Connelly, **NCB**, IA Wilson,  **High Resolution Structure of Wild Type Human Transthyretin in Complex with 3,3',5,5'-tetrachloro-[1,1'-biphenyl]-4,4'diol**, *RCSB PDB*, 4MAS (2013).
+---
+### Other Publications 
+S Connelly, **NCB**, IA Wilson,  **High Resolution Structure of Wild Type Human Transthyretin in Complex with 3,3',5,5'-tetrachloro-[1,1'-biphenyl]-4,4'diol**, *RCSB PDB*, 4MAS (2013).
     - [DOI](https://doi.org/10.2210/pdb4MAS/pdb)
     {class="post-tags"}
 {reversed="reversed"}
