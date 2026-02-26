@@ -11,6 +11,9 @@ hidemeta: True
 
 ---
 ### Papers
+1. T Allen, BY Li, **NCB**, D Neuhauser, **Environment-Induced Exciton Renormalization in the Photosystem II Reaction Center**, *Submitted*, (2026).
+    - [arXiv](https://arxiv.org/abs/2602.20320)
+    {class="post-tags"}
 1. L Peng, T Qiu, **NCB**, X Bian, M Bhati, R Littlejohn, NM Kidwell, JE Subotnik, **Phase Space Electronic Structure Theory: From Diatomic Lambda-Doubling to Macroscopic Einstein-de Haas**, *J. Phys. Chem. Lett.*, In Press (2026). 
     - [arXiv](https://arxiv.org/abs/2512.13448)
     - [DOI](https://doi.org/10.1021/acs.jpclett.5c03970)
@@ -91,6 +94,6 @@ hidemeta: True
 
 ---
 ### Other Publications 
-S Connelly, **NCB**, IA Wilson,  **High Resolution Structure of Wild Type Human Transthyretin in Complex with 3,3',5,5'-tetrachloro-[1,1'-biphenyl]-4,4'diol**, *RCSB PDB*, 4MAS (2013).
+1. S Connelly, **NCB**, IA Wilson,  **High Resolution Structure of Wild Type Human Transthyretin in Complex with 3,3',5,5'-tetrachloro-[1,1'-biphenyl]-4,4'diol**, *RCSB PDB*, 4MAS (2013).
     - [DOI](https://doi.org/10.2210/pdb4MAS/pdb)
     {class="post-tags"}
