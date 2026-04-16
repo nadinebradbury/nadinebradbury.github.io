@@ -11,6 +11,9 @@ hidemeta: True
 
 ---
 ### Papers
+1. A Wright, **NCB**, D Neuhauser, EM Sletten, JR Caram, **Exploring the Role of Excitonic Coupling in Polariton Formation**, *Submitted*, (2026). 
+    - [arXiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002045/v1)
+    {class="post-tags"}
 1. L Peng, T Duston, **NCB**, M Bhati, X Tao, M Rosen, JE Subotnik, **A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**, *Submitted* (2026).
     - [arXiv](https://arxiv.org/abs/2603.13211)
     {class="post-tags"}
@@ -58,8 +61,9 @@ hidemeta: True
     - [DOI](https://doi.org/10.1103/PhysRevB.109.L241303)
     {class="post-tags"}
 
-1. M. Sereda, T. Allen, **NCB**, K. Z. Ibrahim, D. Neuhauser, **Sparse-Stochastic Fragmented Exchange for Large-Scale Hybrid TDDFT Calculations**, *J. Chem. Theory Comp.*,  20,10, 4196-4204 (2024)
+1. M. Sereda, T. Allen, **NCB**, K. Z. Ibrahim, D. Neuhauser, **Sparse-Stochastic Fragmented Exchange for Large-Scale Hybrid TDDFT Calculations**, *J. Chem. Theory Comput.*,  20,10, 4196-4204 (2024)
     - [arXiv](https://arxiv.org/pdf/2402.16217.pdf)
+    
     {class="post-tags"}
 
 1.  **NCB**, T Allen, M Nguyen, and D Neuhauser, **Deterministic/Fragmented-Stochastic Exchange for Large Scale Hybrid DFT Calculations**, *J. Chem. Theory Comput.*, 19, 24 (2023).  
