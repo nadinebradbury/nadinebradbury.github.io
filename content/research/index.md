@@ -25,7 +25,7 @@ hidemeta: True
 
 1. T Allen, BY Li, **NCB**, D Neuhauser, **Environment-Induced Exciton Renormalization in the Photosystem II Reaction Center**, *J. Chem. Theory Comput.*, 22, 10, 5115–5121, (2026).
     - [arXiv](https://arxiv.org/abs/2602.20320)
-    - [DOI] (https://doi.org/10.1021/acs.jctc.6c00440)
+    - [DOI](https://doi.org/10.1021/acs.jctc.6c00440)
     {class="post-tags"}
 
 1. J Williams, A Bailey, M Pengshung, AP Deshmukh, C Garcia, J Cao, BY Li, **NCB**, A Wright, C Chuang, D Neuhauser, E Sletten, JR Caram, **Structural Engineering of Cyanine Dyes to Access Highly Redshifted and Emissive J-aggregates**, *J. Am Chem. Soc.*, In Press (2026).
