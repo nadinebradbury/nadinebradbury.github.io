@@ -11,23 +11,37 @@ hidemeta: True
 
 ---
 ### Papers
+1. M Bhati, DV Cofer-Shabica, JI Rawlinson, RG Littlejohn, JE Subotnik, **NCB**, **Electronic Structure in a Phase Space, non-Born-Oppenheimer Framework: Geometric Forces and Moody-Shapere-Wilzcek Revisited**, *Submitted*, (2026).
+    - [arXiv](https://arxiv.org/pdf/2605.27053)
+    {class="post-tags"}
+
 1. A Wright, **NCB**, D Neuhauser, EM Sletten, JR Caram, **Exploring the Role of Excitonic Coupling in Polariton Formation**, *Submitted*, (2026). 
     - [arXiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002045/v1)
     {class="post-tags"}
+
 1. L Peng, T Duston, **NCB**, M Bhati, X Tao, M Rosen, JE Subotnik, **A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**, *Submitted* (2026).
     - [arXiv](https://arxiv.org/abs/2603.13211)
     {class="post-tags"}
-1. T Allen, BY Li, **NCB**, D Neuhauser, **Environment-Induced Exciton Renormalization in the Photosystem II Reaction Center**, *Submitted*, (2026).
+
+1. T Allen, BY Li, **NCB**, D Neuhauser, **Environment-Induced Exciton Renormalization in the Photosystem II Reaction Center**, *J. Chem. Theory Comput.*, 22, 10, 5115–5121, (2026).
     - [arXiv](https://arxiv.org/abs/2602.20320)
+    - [DOI] (https://doi.org/10.1021/acs.jctc.6c00440)
     {class="post-tags"}
+
+1. J Williams, A Bailey, M Pengshung, AP Deshmukh, C Garcia, J Cao, BY Li, **NCB**, A Wright, C Chuang, D Neuhauser, E Sletten, JR Caram, **Structural Engineering of Cyanine Dyes to Access Highly Redshifted and Emissive J-aggregates**, *J. Am Chem. Soc.*, In Press (2026).
+    - [arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6722c63e5a82cea2fa9167f2)
+    {class="post-tags"}
+
 1. L Peng, T Qiu, **NCB**, X Bian, M Bhati, R Littlejohn, NM Kidwell, JE Subotnik, **Phase Space Electronic Structure Theory: From Diatomic Lambda-Doubling to Macroscopic Einstein-de Haas**, *J. Phys. Chem. Lett.* 17, 10, 2799–2811 (2026). 
     - [arXiv](https://arxiv.org/abs/2512.13448)
     - [DOI](https://doi.org/10.1021/acs.jpclett.5c03970)
     {class="post-tags"}
+
 1. X Bian, T Duston, **NCB**, Z Tao, M Bhati, T Qiu, X Wu, Y Wu, JE Subotnik, **The Phase-Space Way To Electronic Structure Theory and Subsequently Chemical Dynamics**, *Chem. Phys. Rev.* 7, 011303 (2026).
     - [arXiv](https://arxiv.org/abs/2506.15994)
     - [DOI](https://doi.org/10.1063/5.0286240)
     {class="post-tags"}
+
 1. T Duston, **NCB**, Z Tao, JE Subotnik, **Conical Intersections and Electronic Momentum As Viewed From Phase Space Electronic Structure Theory**, *J. Phys. Chem. Lett.* 16, 8994-9003 (2025).
     - [arXiv](https://arxiv.org/abs/2506.11963)
     - [DOI](https://doi.org/10.1021/acs.jpclett.5c01844)
@@ -47,10 +61,6 @@ hidemeta: True
     - [DOI](https://doi.org/10.1063/5.0260731)
     {class="post-tags"}
 
-1. J Williams, A Bailey, M Pengshung, AP Deshmukh, C Garcia, J Cao, BY Li, **NCB**, A Wright, C Chuang, D Neuhauser, E Sletten, JR Caram, **Structural Engineering of Cyanine Dyes to Access Highly Redshifted and Emissive J-aggregates**, Submitted (2024).
-    - [arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6722c63e5a82cea2fa9167f2)
-    {class="post-tags"}
-
 1. **NCB**, BY Li, T Allen, JR Caram, D Neuhauser, **No more gap-shifting: Stochastic many-body-theory based TDHF for accurate theory of polymethine cyanine dyes**, *J. Chem. Phys.*, 161, 141101 (2024).
     - [arXiv](https://arxiv.org/pdf/2308.04385.pdf)
     - [DOI](https://doi.org/10.1063/5.0223783)
@@ -61,9 +71,9 @@ hidemeta: True
     - [DOI](https://doi.org/10.1103/PhysRevB.109.L241303)
     {class="post-tags"}
 
-1. M. Sereda, T. Allen, **NCB**, K. Z. Ibrahim, D. Neuhauser, **Sparse-Stochastic Fragmented Exchange for Large-Scale Hybrid TDDFT Calculations**, *J. Chem. Theory Comput.*,  20,10, 4196-4204 (2024)
+1. M. Sereda, T. Allen, **NCB**, K. Z. Ibrahim, D. Neuhauser, **Sparse-Stochastic Fragmented Exchange for Large-Scale Hybrid TDDFT Calculations**, *J. Chem. Theory Comput.*,  20,10, 4196-4204 (2024).
     - [arXiv](https://arxiv.org/pdf/2402.16217.pdf)
-    
+    - [DOI](https://doi.org/10.1021/acs.jctc.4c00260)
     {class="post-tags"}
 
 1.  **NCB**, T Allen, M Nguyen, and D Neuhauser, **Deterministic/Fragmented-Stochastic Exchange for Large Scale Hybrid DFT Calculations**, *J. Chem. Theory Comput.*, 19, 24 (2023).  
