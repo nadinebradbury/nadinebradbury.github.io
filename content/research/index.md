@@ -12,16 +12,16 @@ hidemeta: True
 ---
 ### Papers
 1. **NCB**, JE Subotnik, **A Phase Space Electronic Structure View of The Solid State**, *Submitted*, (2026).
-  - [arXiv](https://arxiv.org/abs/2608.06260)
-  {class="post-tags"}
+    - [arXiv](https://arxiv.org/abs/2608.06260)
+    {class="post-tags"}
 1. M Bhati, DV Cofer-Shabica, JI Rawlinson, RG Littlejohn, JE Subotnik, **NCB**, **Electronic Structure in a Phase Space, non-Born-Oppenheimer Framework: Geometric Forces and Moody-Shapere-Wilzcek Revisited**, *Submitted*, (2026).
     - [arXiv](https://arxiv.org/pdf/2605.27053)
     {class="post-tags"}
 
 1. A Wright, **NCB**, D Neuhauser, EM Sletten, JR Caram, **Exploring the Role of Excitonic Coupling in Polariton Formation**, *J. Phys. Chem. Lett*, (2026). 
     - [arXiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002045/v1)
-    {class="post-tags"}
     - [DOI](https://doi.org/10.1021/acs.jpclett.6c01861)
+   {class="post-tags"}
 
 1. L Peng, T Duston, **NCB**, M Bhati, X Tao, M Rosen, JE Subotnik, **A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**, *J. Am. Chem Soc.*, In Press (2026).
     - [arXiv](https://arxiv.org/abs/2603.13211)
