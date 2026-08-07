@@ -11,15 +11,19 @@ hidemeta: True
 
 ---
 ### Papers
+1. **NCB**, JE Subotnik, **A Phase Space Electronic Structure View of The Solid State**, *Submitted*, (2026).
+  - [arXiv](https://arxiv.org/abs/2608.06260)
+  {class="post-tags"}
 1. M Bhati, DV Cofer-Shabica, JI Rawlinson, RG Littlejohn, JE Subotnik, **NCB**, **Electronic Structure in a Phase Space, non-Born-Oppenheimer Framework: Geometric Forces and Moody-Shapere-Wilzcek Revisited**, *Submitted*, (2026).
     - [arXiv](https://arxiv.org/pdf/2605.27053)
     {class="post-tags"}
 
-1. A Wright, **NCB**, D Neuhauser, EM Sletten, JR Caram, **Exploring the Role of Excitonic Coupling in Polariton Formation**, *Submitted*, (2026). 
+1. A Wright, **NCB**, D Neuhauser, EM Sletten, JR Caram, **Exploring the Role of Excitonic Coupling in Polariton Formation**, *J. Phys. Chem. Lett*, (2026). 
     - [arXiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002045/v1)
     {class="post-tags"}
+    - [DOI](https://doi.org/10.1021/acs.jpclett.6c01861)
 
-1. L Peng, T Duston, **NCB**, M Bhati, X Tao, M Rosen, JE Subotnik, **A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**, *Submitted* (2026).
+1. L Peng, T Duston, **NCB**, M Bhati, X Tao, M Rosen, JE Subotnik, **A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**, *J. Am. Chem Soc.*, In Press (2026).
     - [arXiv](https://arxiv.org/abs/2603.13211)
     {class="post-tags"}
 
@@ -28,8 +32,9 @@ hidemeta: True
     - [DOI](https://doi.org/10.1021/acs.jctc.6c00440)
     {class="post-tags"}
 
-1. J Williams, A Bailey, M Pengshung, AP Deshmukh, C Garcia, J Cao, BY Li, **NCB**, A Wright, C Chuang, D Neuhauser, E Sletten, JR Caram, **Structural Engineering of Cyanine Dyes to Access Highly Redshifted and Emissive J-aggregates**, *J. Am Chem. Soc.*, In Press (2026).
+1. J Williams, A Bailey, M Pengshung, AP Deshmukh, C Garcia, J Cao, BY Li, **NCB**, A Wright, C Chuang, D Neuhauser, E Sletten, JR Caram, **Structural Engineering of Cyanine Dyes to Access Highly Redshifted and Emissive J-aggregates**, *J. Am. Chem. Soc.*, 148 (28), 29684–29696 (2026).
     - [arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6722c63e5a82cea2fa9167f2)
+    - [DOI](https://doi.org/10.1021/jacs.5c22031)
     {class="post-tags"}
 
 1. L Peng, T Qiu, **NCB**, X Bian, M Bhati, R Littlejohn, NM Kidwell, JE Subotnik, **Phase Space Electronic Structure Theory: From Diatomic Lambda-Doubling to Macroscopic Einstein-de Haas**, *J. Phys. Chem. Lett.* 17, 10, 2799–2811 (2026). 
@@ -104,7 +109,7 @@ hidemeta: True
     - [DOI](https://doi.org/10.1021/acs.jpca.0c07953)
     {class="post-tags"}
 
-1. A Baranczak, Y Liu, S Connelly, WG Han Du, ER Greiner, JC Genereux, RL Wiseman, YS Eisele, **NCB**, J Dong, L Noodleman, KB Sharpless, IA Wilson, SE Encalada, and JW Kelly,  **A Fluorogenic Aryl Fluorosulfate for Intraorganellar Transthyretin Imaging in Living Cells and in Caenorhabditis elegans**. *JACS*, 137, 23, 7404-7414 (2015).
+1. A Baranczak, Y Liu, S Connelly, WG Han Du, ER Greiner, JC Genereux, RL Wiseman, YS Eisele, **NCB**, J Dong, L Noodleman, KB Sharpless, IA Wilson, SE Encalada, and JW Kelly,  **A Fluorogenic Aryl Fluorosulfate for Intraorganellar Transthyretin Imaging in Living Cells and in Caenorhabditis elegans**. *J. Am. Chem. Soc.*, 137, 23, 7404-7414 (2015).
     - [DOI](https://doi.org/10.1021/jacs.5b03042)
     {class="post-tags"}
 {reversed="reversed"}
