@@ -30,7 +30,8 @@ hidemeta: True
 
 1. L Peng, T Duston, **NCB**, M Bhati, X Tao, M Rosen, JE Subotnik, **A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**, *J. Am. Chem Soc.*, In Press (2026).
     - [arXiv](https://arxiv.org/abs/2603.13211)
-    {class="post-tags"}
+    - [DOI](https://doi.org/10.1021/jacs.6c05615)
+  {class="post-tags"}
 
 1. T Allen, BY Li, **NCB**, D Neuhauser, **Environment-Induced Exciton Renormalization in the Photosystem II Reaction Center**, *J. Chem. Theory Comput.*, 22, 10, 5115–5121, (2026).
     - [arXiv](https://arxiv.org/abs/2602.20320)

@@ -8,7 +8,7 @@ hidemeta: true
 
 ## Downloads
 
-- [pdf CV]({{% baseurl %}}Cv_May_2025.pdf)
+- [pdf CV]({{% baseurl %}}Cv_Aug_2026.pdf)
 
 ---
 
