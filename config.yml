@@ -38,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["about_me","research","talks"]
+    MainSections: ["about_me","research"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -63,7 +63,7 @@ params:
 ####
     socialIcons:
         - name: CV
-          url: Cv_May_2025.pdf
+          url: Cv_Aug_2026.pdf
         - name: Email
           url: mailto:nadinebradbury@princeton.edu
         - name: ORCID

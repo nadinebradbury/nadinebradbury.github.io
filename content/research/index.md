@@ -23,7 +23,7 @@ hidemeta: True
     - [arXiv](https://arxiv.org/pdf/2605.27053)
     {class="post-tags"}
 
-1. A Wright, **NCB**, D Neuhauser, EM Sletten, JR Caram, **Exploring the Role of Excitonic Coupling in Polariton Formation**, *J. Phys. Chem. Lett*, (2026). 
+1. A Wright, **NCB**, D Neuhauser, EM Sletten, JR Caram, **Exploring the Role of Excitonic Coupling in Polariton Formation**, *J. Phys. Chem. Lett*,17,30 9276-9284 (2026). 
     - [arXiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002045/v1)
     - [DOI](https://doi.org/10.1021/acs.jpclett.6c01861)
    {class="post-tags"}
@@ -31,7 +31,7 @@ hidemeta: True
 1. L Peng, T Duston, **NCB**, M Bhati, X Tao, M Rosen, JE Subotnik, **A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**, *J. Am. Chem Soc.*, In Press (2026).
     - [arXiv](https://arxiv.org/abs/2603.13211)
     - [DOI](https://doi.org/10.1021/jacs.6c05615)
-  {class="post-tags"}
+    {class="post-tags"}
 
 1. T Allen, BY Li, **NCB**, D Neuhauser, **Environment-Induced Exciton Renormalization in the Photosystem II Reaction Center**, *J. Chem. Theory Comput.*, 22, 10, 5115–5121, (2026).
     - [arXiv](https://arxiv.org/abs/2602.20320)
