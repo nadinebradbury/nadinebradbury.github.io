@@ -28,7 +28,7 @@ hidemeta: True
     - [DOI](https://doi.org/10.1021/acs.jpclett.6c01861)
    {class="post-tags"}
 
-1. L Peng, T Duston, **NCB**, M Bhati, X Tao, M Rosen, JE Subotnik, **A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**, *J. Am. Chem Soc.*, In Press (2026).
+1. L Peng, T Duston, **NCB**, M Bhati, X Tao, M Rosen, JE Subotnik, **A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**, *J. Am. Chem Soc.*, 148 (34), 36583–36593 (2026).
     - [arXiv](https://arxiv.org/abs/2603.13211)
     - [DOI](https://doi.org/10.1021/jacs.6c05615)
     {class="post-tags"}
@@ -73,7 +73,7 @@ hidemeta: True
     {class="post-tags"}
 
 1. **NCB**, BY Li, T Allen, JR Caram, D Neuhauser, **No more gap-shifting: Stochastic many-body-theory based TDHF for accurate theory of polymethine cyanine dyes**, *J. Chem. Phys.*, 161, 141101 (2024).
-    - [arXiv](https://arxiv.org/pdf/2308.04385.pdf)
+    - [arXiv](https://arxiv.org/pdf/2406.09544.pdf)
     - [DOI](https://doi.org/10.1063/5.0223783)
     {class="post-tags"}
 
