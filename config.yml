@@ -15,9 +15,12 @@ menu:
         - name: About Me
           url: about_me/
           weight: 1
+        - name: Publications
+          url: publications/
+          weight: 2
         - name: Research
           url: research/
-          weight: 2
+          weight: 3
         # - name: Talks
         #   url: talks/
         #   weight: 4
@@ -56,6 +59,8 @@ params:
           buttons:
             - name: About Me
               url: about_me/
+            - name: Publications
+              url: publications/
             - name: Research
               url: research/
             # - name: Talks
