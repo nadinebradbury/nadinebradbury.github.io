@@ -15,7 +15,7 @@ hidemeta: True
     - [arXiv](https://arxiv.org/abs/2608.11448)
     {class="post-tags"}
 
-1. **NCB**, JE Subotnik, **A Phase Space Electronic Structure View of The Solid State**, *Submitted*, (2026).
+1. **NCB**, L Peng, JE Subotnik, **A Phase Space Electronic Structure View of The Solid State**, *Submitted*, (2026).
     - [arXiv](https://arxiv.org/abs/2608.06260)
     {class="post-tags"}
 
