@@ -15,8 +15,9 @@ hidemeta: True
     - [arXiv](https://arxiv.org/abs/2610.18631)
     {class="post-tags"}
 
-1. JE Subotnik, E Alguire, N Bellonzi, X Bian, M Bhati, **NCB**, DV Cofer-Sabica, B Curlee, T Duston, S Fatehi, G Miao, Z Pei, L Peng, T Qiu, Z Tao, X Wu, Y Wu, Z Zaidi, Y Shao, J Rawlinson, N Shenvi, R Littlejohn, **A Perspective on Phase Space Electronic Structure Theory : From Its Surface Hopping Origins Through To Its Future Promise**, *Submitted* arXiv:2608.11448 (2026).
+1. JE Subotnik, E Alguire, N Bellonzi, X Bian, M Bhati, **NCB**, DV Cofer-Sabica, B Curlee, T Duston, S Fatehi, G Miao, Z Pei, L Peng, T Qiu, Z Tao, X Wu, Y Wu, Z Zaidi, Y Shao, J Rawlinson, N Shenvi, R Littlejohn, **A Perspective on Phase Space Electronic Structure Theory : From Its Surface Hopping Origins Through To Its Future Promise**, *APL Computational Physics* 2, 040901 (2026).
     - [arXiv](https://arxiv.org/abs/2608.11448)
+    - [DOI](https://doi.org/10.1063/5.0356959)
     {class="post-tags"}
 
 1. **NCB**, L Peng, JE Subotnik, **A Phase Space Electronic Structure View of The Solid State**, *Submitted* arXiv:2608.06260 (2026).

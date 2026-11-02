@@ -5,7 +5,7 @@ hidemeta: true
 ---
 ---
 
-My PhD and postdoc research are highly contrasting, below I summarize my work under the two main headings. Going forward, I look forward to mixing both of my research interest to investate the interplay of supramolecular (nanosystem) chirality and spin chemistry. Since spin effects (such as chiral induced spin selectivity CISS) appear to be extensive in system size, new fundamental theories of spin-nuclear correlation must be adapated to highly scalable electronic stucture theory methods that can treat systems of large molecular size.
+My PhD and postdoc research are highly contrasting, below I summarize my work under the two main headings. Going forward, I look forward to mixing both of my research interest to investigate the interplay of supramolecular (nanosystem) chirality and spin chemistry. Since spin effects (such as chiral induced spin selectivity CISS) appear to be extensive in system size, new fundamental theories of spin-nuclear correlation must be adapated to highly scalable electronic stucture theory methods that can treat systems of large molecular size.
 
 ---
 
