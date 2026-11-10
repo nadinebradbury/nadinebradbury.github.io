@@ -24,7 +24,7 @@ hidemeta: True
     - [arXiv](https://arxiv.org/abs/2608.06260)
     {class="post-tags"}
 
-1. M Bhati, DV Cofer-Shabica, JI Rawlinson, RG Littlejohn, JE Subotnik, **NCB**, **Electronic Structure in a Phase Space, non-Born-Oppenheimer Framework: Geometric Forces and Moody-Shapere-Wilzcek Revisited**, *Submitted* arXiv:2605.27053 (2026).
+1. M Bhati, DV Cofer-Shabica, JI Rawlinson, RG Littlejohn, JE Subotnik, **NCB**, **Electronic Structure in a Phase Space, non-Born-Oppenheimer Framework: Geometric Forces and Moody-Shapere-Wilzcek Revisited**, *Phys. Rev. B.* (Accepted), arXiv:2605.27053 (2026).
     - [arXiv](https://arxiv.org/pdf/2605.27053)
     {class="post-tags"}
 
